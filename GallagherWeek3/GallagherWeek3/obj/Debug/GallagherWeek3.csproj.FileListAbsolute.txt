@@ -1,0 +1,18 @@
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\bin\Debug\GallagherWeek3.exe.config
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\bin\Debug\GallagherWeek3.exe
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\bin\Debug\GallagherWeek3.pdb
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.csprojResolveAssemblyReference.cache
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.Form1.resources
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.Properties.Resources.resources
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.csproj.GenerateResource.Cache
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.exe
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\bin\Debug\GallagherWeek3.exe.config
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.exe
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\bin\Debug\GallagherWeek3.exe
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\bin\Debug\GallagherWeek3.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.Form1.resources
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.Properties.Resources.resources
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek3\GallagherWeek3\obj\Debug\GallagherWeek3.csproj.GenerateResource.Cache

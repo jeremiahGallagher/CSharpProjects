@@ -1,0 +1,32 @@
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe.config
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.pdb
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.csprojResolveAssemblyReference.cache
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.Form1.resources
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.Properties.Resources.resources
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.csproj.GenerateResource.Cache
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.exe
+c:\users\scc student\documents\visual studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe.config
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.exe
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.pdb
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.Form1.resources
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.Properties.Resources.resources
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.csproj.GenerateResource.Cache
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.NewCheckingForm.resources
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe.config
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.exe
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.pdb
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.pdb
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.csprojResolveAssemblyReference.cache
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.NewCheckingForm.resources
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.Form1.resources
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.Properties.Resources.resources
+C:\Users\SCC Student\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.csproj.GenerateResource.Cache
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\bin\Debug\GallagherWeek4.exe.config
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.exe
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherWeek4\GallagherWeek4\GallagherWeek4\obj\Debug\GallagherWeek4.pdb
