@@ -1,0 +1,64 @@
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCosts\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 24\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csproj.GenerateResource.Cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csprojResolveAssemblyReference.cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Properties.Resources.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csproj.GenerateResource.Cache
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csprojResolveAssemblyReference.cache
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Properties.Resources.resources
+I:\CS2563\C#\Instructors\Extra exercises\Exercise starts\Chapter 25\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csproj.GenerateResource.Cache
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csprojResolveAssemblyReference.cache
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.FrmMain.resources
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Properties.Resources.resources
+C:\Users\SCC Student\Downloads\attachments\CalculateFlooringCostsSDI\CalculateFlooringCostsMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.csproj.GenerateResource.Cache
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherMDI\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\Users\Jeremiah\Documents\Visual Studio 2015\Projects\GallagherMDI\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
