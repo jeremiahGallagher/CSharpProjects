@@ -1,0 +1,9 @@
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\bin\Debug\GallagherWeek2.exe.config
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\bin\Debug\GallagherWeek2.exe
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\bin\Debug\GallagherWeek2.pdb
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\obj\Debug\GallagherWeek2.csprojResolveAssemblyReference.cache
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\obj\Debug\GallagherWeek2.FlightReservation.resources
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\obj\Debug\GallagherWeek2.Properties.Resources.resources
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\obj\Debug\GallagherWeek2.csproj.GenerateResource.Cache
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\obj\Debug\GallagherWeek2.exe
+c:\users\jeremiah\documents\visual studio 2015\Projects\GallagherWeek2\GallagherWeek2\obj\Debug\GallagherWeek2.pdb
